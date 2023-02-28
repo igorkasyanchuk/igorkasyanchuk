@@ -1,7 +1,7 @@
 ### My Work
 
-You can see the whole list of my open-source projects: https://www.railsjazz.com
-My Profile on https://opensource-heroes.com/u/igorkasyanchuk
+- You can see the whole list of my open-source projects: https://www.railsjazz.com
+- My Profile on https://opensource-heroes.com/u/igorkasyanchuk
 
 [<img src="https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/more_gems.png?raw=true"
 />](https://www.railsjazz.com/?utm_source=github&utm_medium=readme&utm_campaign=readme)
