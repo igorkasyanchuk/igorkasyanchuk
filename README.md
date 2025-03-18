@@ -11,6 +11,8 @@ If you’d like to support my work, you can do so using this link: https://send.
 />](https://www.railsjazz.com/?utm_source=github&utm_medium=readme&utm_campaign=readme)
 
 
+https://cheatsheetshero.com/user/igor-kasyanchuk
+
 <!--
 **igorkasyanchuk/igorkasyanchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
