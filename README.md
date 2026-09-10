@@ -13,6 +13,8 @@ If you’d like to support my work, you can do so using these links: https://buy
 
 https://igorkasyanchuk.com/
 
+https://www.yearsof.dev/u/igorkasyanchuk
+
 <!--
 **igorkasyanchuk/igorkasyanchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
