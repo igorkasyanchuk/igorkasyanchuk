@@ -15,7 +15,7 @@ https://igorkasyanchuk.com/
 
 https://www.yearsof.dev/u/igorkasyanchuk
 
-[![igorkasyanchuk’s years on GitHub](https://www.yearsof.dev/og/igorkasyanchuk.png?variation=year-bands)](https://www.yearsof.dev/u/igorkasyanchuk)
+[![igorkasyanchuk’s years on GitHub](https://www.yearsof.dev/og/igorkasyanchuk.png)](https://www.yearsof.dev/u/igorkasyanchuk)
 
 <!--
 **igorkasyanchuk/igorkasyanchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
