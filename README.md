@@ -3,6 +3,7 @@
 - You can see the whole list of my open-source projects: https://igorkasyanchuk.com
 - Repositories here https://github.com/railsjazz and my personal
 - https://www.yearsof.dev/u/igorkasyanchuk my dev DNA :) a pet project
+- http://diffnotes.dev/ - annotate GitHub PRs for free from an AI agent
 
 [![igorkasyanchuk’s years on GitHub](https://www.yearsof.dev/og/igorkasyanchuk.png)](https://www.yearsof.dev/u/igorkasyanchuk)
 
