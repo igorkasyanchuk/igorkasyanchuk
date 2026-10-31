@@ -2,6 +2,7 @@
 
 - You can see the whole list of my open-source projects: https://igorkasyanchuk.com
 - Repositories here https://github.com/railsjazz and my personal
+- https://laki.sh/ - own version of agent orchestration app, with dozens of features and customization options
 - https://www.yearsof.dev/u/igorkasyanchuk my dev DNA :) a pet project
 - http://diffnotes.dev/ - annotate GitHub PRs for free from an AI agent
 
